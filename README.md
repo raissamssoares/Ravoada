@@ -1,3 +1,0 @@
-# TRANSCAL
-
-Arquivos de TRANSCAL
